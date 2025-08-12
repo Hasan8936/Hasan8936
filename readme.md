@@ -59,7 +59,8 @@
 
 <div align="center">
   
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan8936&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+[![Anurag's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasan8936&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasan8936&theme=dark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan8936&theme=dark&hide_border=true&layout=compact&count_private=true)
 

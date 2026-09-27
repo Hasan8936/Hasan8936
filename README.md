@@ -1,34 +1,33 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />
+
 # Nusaibul Hasan
 
-Software Engineer at Shiftpurple — building AI/ML systems and full-stack tools.
-Final-year Electronics & Instrumentation Engineering student, Thapar Institute of Engineering and Technology.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4CC9F0&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Shiftpurple;Building+AI%2FML+systems+%26+full-stack+tools;Final-year+EIE+%40+Thapar+Institute)](https://github.com/Hasan8936)
+
+<img src="https://komarev.com/ghpvc/?username=Hasan8936&label=Profile%20Views&color=4CC9F0&style=flat-square" alt="profile views" />
 
 </div>
 
 <br>
 
-<table align="center">
+<table>
 <tr>
-<td><code>ROLE</code></td>
-<td>Software Engineer, Shiftpurple</td>
-</tr>
-<tr>
-<td><code>BACKGROUND</code></td>
-<td>Electronics & Instrumentation Engineering, Thapar Institute (2022–2026)</td>
-</tr>
-<tr>
-<td><code>FOCUS</code></td>
-<td>Applied ML, backend systems, QA automation</td>
-</tr>
-<tr>
-<td><code>LOCATION</code></td>
-<td>India</td>
-</tr>
-<tr>
-<td><code>CONTACT</code></td>
-<td>hasanryan052@gmail.com</td>
+<td width="60%" valign="top">
+
+<table>
+<tr><td><code>ROLE</code></td><td>Software Engineer, Shiftpurple</td></tr>
+<tr><td><code>BACKGROUND</code></td><td>Electronics & Instrumentation Engineering, Thapar Institute (2022–2026)</td></tr>
+<tr><td><code>FOCUS</code></td><td>Applied ML, backend systems, QA automation</td></tr>
+<tr><td><code>LOCATION</code></td><td>India</td></tr>
+<tr><td><code>CONTACT</code></td><td>hasanryan052@gmail.com</td></tr>
+</table>
+
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="230" />
+</td>
 </tr>
 </table>
 
@@ -73,9 +72,13 @@ Final-year Electronics & Instrumentation Engineering student, Thapar Institute o
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasan8936&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=4CC9F0&text_color=E6EDF3&icon_color=FFB703&ring_color=4CC9F0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan8936&layout=donut&hide_border=true&bg_color=0B0F14&title_color=4CC9F0&text_color=E6EDF3" />
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan8936&hide_border=true&background=0B0F14&ring=4CC9F0&fire=FFB703&currStreakLabel=4CC9F0&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=7D8590" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasan8936&bg_color=0B0F14&color=4CC9F0&line=FFB703&point=E6EDF3&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hasan8936&theme=onedark&no-frame=true&column=6&margin-w=8&margin-h=8" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasan8936/Hasan8936/output/github-contribution-grid-snake-dark.svg" />
@@ -92,7 +95,7 @@ Final-year Electronics & Instrumentation Engineering student, Thapar Institute o
 | Project | What it does | Stack |
 |---|---|---|
 | **Customer Churn Prediction System** | Custom NumPy logistic regression on the IBM Telco dataset, with class-imbalance handling and a stacking ensemble — F1 0.61 → 0.69 | Python, NumPy, scikit-learn |
-| **[Healthcare IoT Anomaly Detection](https://github.com/Hasan8936/anomaly-detection-in-healthcare-data)** | CNN-LSTM hybrid for real-time anomaly detection on IoT devices — 99% accuracy, 60% fewer false alarms | Python, TensorFlow, CNN-LSTM |
+| **Healthcare IoT Anomaly Detection** | CNN-LSTM hybrid for real-time anomaly detection on IoT devices — 99% accuracy, 60% fewer false alarms | Python, TensorFlow, CNN-LSTM |
 | **[FashionFlow Intelligence](https://github.com/Hasan8936/fashionflow)** | Inventory optimizer for fashion retail — cut overstock 15%, lifted sales 8% | Random Forest, XGBoost |
 | **[Smart Job Application Tracker](https://github.com/Hasan8936/Smart-Job-Application-Tracker-)** | Full-stack tracker with Google OAuth and email-based password reset | Vite, Spring Boot, Docker, Render, Vercel |
 | **AI-Powered Accounting & Reporting Assistant** | RAG-based assistant for automated accounting queries and reporting | Python, LangChain |

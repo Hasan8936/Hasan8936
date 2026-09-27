@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2484FF&size=32&lines=Electronics+and+Instrumentation+Student📡;Data+Analytics+Enthusiast📊;AI+and+ML+Developer🤖;Constantly+Learning⚡;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Hasan8936)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2484FF&size=32&lines=Software+Engineer💻;AI+and+ML+Developer🤖;Data+Analytics+Enthusiast📊;Constantly+Learning⚡;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Hasan8936)
 
 </div>
 
@@ -18,12 +18,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="250" height="210" alt="AI GIF">
 
-- 🎓 **Electronics and Instrumentation Engineering Student** at Thapar Institute of Engineering and Technology (2022–2026)  
-- 🧠 AI & ML enthusiast with experience in healthcare and fashion industry use cases  
-- 🛠️ Skilled in Python, Deep Learning, Data Science, and Backend Development  
-- 🌐 Built projects using CNN-LSTM, Docker, Kafka, TensorFlow, React, PostgreSQL, and more  
-- 📊 Data Analytics experience via Google & Deloitte virtual internships  
-- 🤝 Open to internships, collaborations, and data-driven roles  
+- 💻 **Fullstack Developer** at **Shiftpurple**
+- 🎓 Electronics and Instrumentation Engineering, Thapar Institute of Engineering and Technology (2022–2026)
+- 🧠 AI & ML enthusiast with hands-on experience across healthcare, fashion, and fintech use cases
+- 🛠️ Skilled in Python, Java, Deep Learning, Data Science, and Backend/Full-Stack Development
+- 🌐 Built and shipped projects using CNN-LSTM, RAG pipelines, Docker, Kafka, TensorFlow, React, Spring Boot, and PostgreSQL
+- 📊 Data Analytics background via Google & Deloitte virtual internships
+- 🧪 QA/test automation experience: Pytest, Postman, Docker, CI/CD pipelines
+- 🤝 Open to internships, collaborations, and data-driven engineering roles
 - 📫 Reach me at **hasanryan052@gmail.com**
 
 ---
@@ -36,22 +38,42 @@
 
 ## 🛠️ Tools & Technology
 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)  
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+
+**Frontend & Backend**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+
+**AI / ML / Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+**Infra & Tools**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![GCP](https://img.shields.io/badge/google%20cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 
 ---
 
@@ -84,18 +106,29 @@
 
 ---
 
-## 🚀 Projects Showcase
+## 🚀 Top Projects
 
-### 🔹 [FashionFlow Intelligence](https://github.com/Hasan8936/fashionflow)
-- AI-powered inventory optimizer using **Random Forest** + **XGBoost**
-- Reduced overstock by **15%**, increased sales by **8%**
+### 🔹 Customer Churn Prediction System
+- Built ML foundation on the IBM Telco dataset with a custom NumPy logistic regression from scratch
+- Feature engineering, class-imbalance handling, threshold optimization, and a stacking ensemble — F1 improved from 0.61 to 0.69
 
 ### 🔹 [Healthcare IoT-based Anomaly Detection](https://github.com/Hasan8936/anomaly-detection-in-healthcare-data)
 - CNN-LSTM hybrid model for real-time anomaly detection on IoT devices
 - Achieved **99% accuracy** with a **60% reduction** in false alarms
 
-### 🔹 [Deloitte Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HZCs4vxsGHGZ5kZCL_1752594922825_completion_certificate.pdf)
-- Data model integration, visualization dashboards, and cybersecurity investigation
+### 🔹 [FashionFlow Intelligence](https://github.com/Hasan8936/fashionflow)
+- AI-powered inventory optimizer using **Random Forest** + **XGBoost**
+- Reduced overstock by **15%**, increased sales by **8%**
+
+### 🔹 [Smart Job Application Tracker](https://github.com/Hasan8936/Smart-Job-Application-Tracker-)
+- Full-stack app: Vite frontend, Spring Boot backend with Google OAuth login and email-based password reset
+- Backend deployed on Render, frontend on Vercel, containerized with Docker/docker-compose
+
+### 🔹 AI-Powered Accounting & Reporting Assistant
+- LangChain/RAG-based assistant for automated accounting queries and reporting
+
+### 🔹 Dynamic Surge Pricing System
+- Pricing engine modeling demand-driven price adjustments
 
 ---
 
@@ -103,6 +136,7 @@
 
 - [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/account/accomplishments/certificate/01TCOA3KW3CE)  
 - [Certified Data Scientist – IBM (Coursera)](https://www.coursera.org/account/accomplishments/certificate/L4ZL42PM69F5)
+- Autodesk AutoCAD Certification (June 2025)
 
 ---
 
